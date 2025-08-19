@@ -20,25 +20,25 @@
 
 ## 🔗 免费订阅链接（每日更新）
 
-### ✅ 最新订阅(2025 年 08 月 18 日 更新)
+### ✅ 最新订阅(2025 年 08 月 19 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=c117d680e9ef60893f3f5ec24572d714
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=d1c32617967277604c54e869451bd895
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=75292a79d05eda7dcfe953719ced224b
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=8093d546545000764051ed1de5ba00d1
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=ebc63d60dc05bb209a092bee1d1fc8fe
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=2e81841d53c93066dee60a58bbc08719
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=32328ef34ae7d2ea31a19ceb0c6e4d03
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=7842acb51820441b1a11c6f22fd073ff
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=8fdfdb4cffc7993085434cf5f40a899a
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=570c772e82a8530aca09be2e9bdc9bdb
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=fa17e7804db42c8a9743063e268f861e
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=a762bcc4cdc1e4031603550c4ce67aba
-https://vip05.20250812.xyz/api/v1/client/subscribe?token=829e5663c207e4ff4278767982649fdf
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=c117d680e9ef60893f3f5ec24572d714
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=d1c32617967277604c54e869451bd895
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=75292a79d05eda7dcfe953719ced224b
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=8093d546545000764051ed1de5ba00d1
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=ebc63d60dc05bb209a092bee1d1fc8fe
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=2e81841d53c93066dee60a58bbc08719
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=32328ef34ae7d2ea31a19ceb0c6e4d03
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=7842acb51820441b1a11c6f22fd073ff
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=8fdfdb4cffc7993085434cf5f40a899a
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=570c772e82a8530aca09be2e9bdc9bdb
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=fa17e7804db42c8a9743063e268f861e
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=a762bcc4cdc1e4031603550c4ce67aba
+https://vip05.stableconnect.cloud/sub/api/v1/client/subscribe?token=829e5663c207e4ff4278767982649fdf
 
 ```
 
