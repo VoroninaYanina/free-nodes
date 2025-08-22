@@ -20,23 +20,23 @@
 
 ## 🔗 免费订阅链接（每日更新）
 
-### ✅ 最新订阅(2025 年 08 月 21 日 更新)
+### ✅ 最新订阅(2025 年 08 月 22 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=ea7841082f5ef52f1fd87b4cce34f776
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=ccc434b635f9a43adf1f0e968e2c711d
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=ee34985f1143a54aa6eb41f209871759
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=3679c28ad6749063a056efbb3fc1d1cb
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=ae9f00ce3107219f2003cfef9965a163
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=ebc63d60dc05bb209a092bee1d1fc8fe
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=87a581152cb66fb9ab057143899edf89
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=11ac1b365d948765e1cb59f9dc4139c1
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=32328ef34ae7d2ea31a19ceb0c6e4d03
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=f642988ac6dc9ae17c6d5503cc232a8e
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=5e3d70fccc596e9c901338f9f7878dac
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=8d9bc91a60f09aaba335381cca51c7d5
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=3fd7caaf284f22e4dd0440f0dc4dd579
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=fa17e7804db42c8a9743063e268f861e
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=4915483b77dcfde45d229ba70d97a4ff
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=dbe26ee6a5664290fa7a5d1e6d1bee6b
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=d41d1bc93aabb73c72ad0d1948c5ec48
 
