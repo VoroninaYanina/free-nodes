@@ -5,7 +5,7 @@
 - 📶 支持三网（电信/联通/移动）IEPL 专线中继
 - 🌍 全球节点覆盖：香港、日本、美国、台湾、新加坡等
 - 🚀 原生 IP 解锁 Netflix、YouTube、Spotify、TVer 等流媒体
-  👉 [点击立即注册体验稳联云](https://shortlink181.github.io/1)
+  👉 [点击立即注册体验稳联云](https://shortlink.20250812.xyz/1)
 
 ---
 
@@ -62,7 +62,7 @@ https://vip09.20250812.xyz/api/v1/client/subscribe?token=5f01cc3da93ace118a48400
 | 客服支持 | 无 | ✅ 工单/电报群支持 |
 | 稳定性 | 多人共享卡顿 | ✅ 独享，稳定高速 |
 
-👉 [点击立即注册体验稳联云](https://shortlink181.github.io/1)
+👉 [点击立即注册体验稳联云](https://shortlink.20250812.xyz/1)
 
 ---
 
