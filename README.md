@@ -1,11 +1,11 @@
 # 免费 V2Ray / Trojan / Hysteria2 节点订阅（每日更新）【2025 最新】
 
-> 🎯 **推荐机场：[稳联云](https://shortlink.20250812.xyz/1) · 高速专线加速，高品质体验的正确打开方式！**
+> 🎯 **推荐机场：[稳联云](https://shortlink3.20250812.xyz/1) · 高速专线加速，高品质体验的正确打开方式！**
 
 - 📶 支持三网（电信/联通/移动）IEPL 专线中继
 - 🌍 全球节点覆盖：香港、日本、美国、台湾、新加坡等
 - 🚀 原生 IP 解锁 Netflix、YouTube、Spotify、TVer 等流媒体
-  👉 [点击立即注册体验稳联云](https://shortlink.20250812.xyz/1)
+  👉 [点击立即注册体验稳联云](https://shortlink3.20250812.xyz/1)
 
 ---
 
@@ -26,19 +26,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=077c850d7b4c982ccb5c6273776ec204
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a22de74249abc87791c29dcb498508b6
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=b3f6387e4eb181ccd03a507e8e226967
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a9e6fcfb0f5b9fd0d0908a10c024948d
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=3cc11fb566959e91f34d1218f38f7789
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=dd9e19be7a6f3cd2ca5bccfe41f51a3c
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=233c88cde1225e2bad3673149a050839
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=1a6c3eb8968704470b7ad770204f49d9
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9566574da47931a8ef4a95d63a86a94c
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9247900cd1d823acb81262bffa0ed08e
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=38476b8b94d96d281f7b07fb71b838d2
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=3185ae781ff678f153a88192ecb25786
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2c59191f6d
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=077c850d7b4c982ccb5c6273776ec204
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=a22de74249abc87791c29dcb498508b6
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=b3f6387e4eb181ccd03a507e8e226967
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=a9e6fcfb0f5b9fd0d0908a10c024948d
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=3cc11fb566959e91f34d1218f38f7789
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=dd9e19be7a6f3cd2ca5bccfe41f51a3c
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=6d2fee94949844b141ce4bde912ee99e
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=504f89ddde91ca3e8c89cbd3ee6c9920
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=9566574da47931a8ef4a95d63a86a94c
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=9247900cd1d823acb81262bffa0ed08e
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=38476b8b94d96d281f7b07fb71b838d2
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=3185ae781ff678f153a88192ecb25786
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2c59191f6d
 
 ```
 
@@ -46,14 +46,14 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2
 
 ---
 
-## 🚀 为什么推荐使用[稳联云机场](https://shortlink.20250812.xyz/1)？
+## 🚀 为什么推荐使用[稳联云机场](https://shortlink3.20250812.xyz/1)？
 
 虽然免费节点可临时使用，但它们：
 
 - 🟥 频繁失效 / 速度不稳定 / 容易封锁
 - 🟧 经常断流 / 影响正常体验
 
-**推荐使用[稳联云](https://shortlink.20250812.xyz/1)机场的原因：**
+**推荐使用[稳联云](https://shortlink3.20250812.xyz/1)机场的原因：**
 
 | 特性 | 免费节点 | 稳联云机场 |
 |------|----------|-------------|
@@ -62,7 +62,7 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2
 | 客服支持 | 无 | ✅ 工单/电报群支持 |
 | 稳定性 | 多人共享卡顿 | ✅ 独享，稳定高速 |
 
-👉 [点击立即注册体验稳联云](https://shortlink.20250812.xyz/1)
+👉 [点击立即注册体验稳联云](https://shortlink3.20250812.xyz/1)
 
 ---
 
