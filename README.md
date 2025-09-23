@@ -1,4 +1,4 @@
-# 免费 V2Ray / Trojan / Hysteria2 节点订阅（每日更新）【2025 最新】
+# 1. 免费 V2Ray / Trojan / Hysteria2 节点订阅（每日更新）【2025 最新】
 
 > 🎯 **推荐机场：[稳联云](https://st01.20250920.top/1) · 高速专线加速，高品质体验的正确打开方式！**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 节点使用须知
+## 1.1. 📌 节点使用须知
 
 - 所有节点为**限流共享节点**，可能因用户过多而造成卡顿或掉线。
 - 不建议使用这些节点观看高清视频或用于长期连接。
@@ -18,9 +18,9 @@
 
 ---
 
-## 🔗 免费订阅链接（每日更新）
+## 1.2. 🔗 免费订阅链接（每日更新）
 
-### ✅ 最新订阅(2025 年 09 月 23 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 09 月 23 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
@@ -46,7 +46,19 @@ https://vip14.20250920.top/api/v1/client/subscribe?token=4218f5d7d78278b788ad74e
 
 ---
 
-## 🚀 为什么推荐使用[稳联云机场](https://st01.20250920.top/1)？
+## 1.3. 翻墙客户端推荐
+
+免费节点与以下支持最新协议的翻墙客户端结合使用效果最佳：
+
+- [Linux 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/linux/)
+- [MacOS 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/macos/)
+- [Windows 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/windows/)
+- [Hiddify Next (Android) 安装与配置教程](https://proxyguide.org/hiddifyapp/android/)
+- [Hiddify Next (iOS) 安装与配置教程](https://proxyguide.org/hiddifyapp/ios/)
+- [Windows 平台 v2rayN 安装与配置教程](https://proxyguide.org/v2ray/v2rayN-install/)
+- [https://proxyguide.org/clash/clash-verge-on-linux/](https://proxyguide.org/clash/clash-verge-on-linux/)
+
+## 1.4. 🚀 为什么推荐使用[稳联云机场](https://st01.20250920.top/1)？
 
 虽然免费节点可临时使用，但它们：
 
@@ -66,14 +78,14 @@ https://vip14.20250920.top/api/v1/client/subscribe?token=4218f5d7d78278b788ad74e
 
 ---
 
-## 📥 节点导入教程推荐
+## 1.5. 📥 节点导入教程推荐
 
 - [v2rayN 客户端订阅导入教程](https://www.v2raya.net/manual/import.html)
 - [Clash 客户端配置指南](https://www.v2raya.net/manual/auto-pull.html)
 
 ---
 
-## 🛠 如何测试节点有效性？
+## 1.6. 🛠 如何测试节点有效性？
 
 1. 打开你的代理客户端（如 v2rayN 或 Clash）
 2. 导入上方提供的订阅链接
@@ -82,7 +94,7 @@ https://vip14.20250920.top/api/v1/client/subscribe?token=4218f5d7d78278b788ad74e
 
 ---
 
-## ❓ 常见问题 FAQ
+## 1.7. ❓ 常见问题 FAQ
 
 **Q：节点无法连接怎么办？**  
 A：尝试更新订阅链接或切换至新的节点。如果多次尝试失败，建议等待数小时后再访问。
@@ -92,7 +104,7 @@ A：部分节点可能支持，但不稳定，建议使用付费专线或自建�
 
 ---
 
-## 📅 每日提醒
+## 1.8. 📅 每日提醒
 
 记得**收藏本页并每天更新订阅链接**，否则可能导致节点过期无法连接。
 
