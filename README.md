@@ -20,14 +20,14 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 09 月 27 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 09 月 28 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
 https://vip16.20250920.top/api/v1/client/subscribe?token=d8fe1f1f8a35d631f1413a94c2a31b4e
-https://vip16.20250920.top/api/v1/client/subscribe?token=27e027d45d5055bd2e3fa395be470b0b
+https://vip16.20250920.top/api/v1/client/subscribe?token=0162c779608ab961d18b3b95c38733a4
 https://vip16.20250920.top/api/v1/client/subscribe?token=11af019fb1d5cb93a941491260b5fe8e
 https://vip16.20250920.top/api/v1/client/subscribe?token=fe50537c77b118523b94b4510804d777
 https://vip16.20250920.top/api/v1/client/subscribe?token=804b6e982eb8dab4573b856996bfbe98
