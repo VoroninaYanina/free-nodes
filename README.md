@@ -20,25 +20,25 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 09 月 30 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 10 月 01 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip16.20250920.top/api/v1/client/subscribe?token=cb0173b5b3e1c839aa6745ebe1128b15
-https://vip16.20250920.top/api/v1/client/subscribe?token=2e692affcde7e6b6817e3eb6579d1de6
-https://vip16.20250920.top/api/v1/client/subscribe?token=b15ca3486747cd73c5ed490c61579e42
-https://vip16.20250920.top/api/v1/client/subscribe?token=16053c7a31d203e23146ec411dc33035
-https://vip16.20250920.top/api/v1/client/subscribe?token=f42c852aa44366122e3487cd27186807
-https://vip16.20250920.top/api/v1/client/subscribe?token=d96995bccbf1ba60bbef0ebe7e5f8b10
-https://vip16.20250920.top/api/v1/client/subscribe?token=0434e119a39802bf42b6968797d38bc0
+https://vip16.20250920.top/api/v1/client/subscribe?token=e819d75d51017683c50938069649b099
+https://vip16.20250920.top/api/v1/client/subscribe?token=1dc260cbe74a3d1d12222b7f6549bb97
+https://vip16.20250920.top/api/v1/client/subscribe?token=58369a8e3de8048fcbb5fcaba7db38c3
+https://vip16.20250920.top/api/v1/client/subscribe?token=b26a0efa5450d67821d03517c5ca1ab4
+https://vip16.20250920.top/api/v1/client/subscribe?token=86822bc01a4c84cb1b63874777d69a2b
+https://vip16.20250920.top/api/v1/client/subscribe?token=7baac5db5e585b250c6c0a8c3c98643c
+https://vip16.20250920.top/api/v1/client/subscribe?token=9ea47029138d1d3230762ac12cfa28b8
 https://vip16.20250920.top/api/v1/client/subscribe?token=b31bf2f6872727a9c61fca95d8dae494
-https://vip16.20250920.top/api/v1/client/subscribe?token=6831f2f5ec3d686ac187e533fdf5f4da
+https://vip16.20250920.top/api/v1/client/subscribe?token=799dbbe4e21513ad4f22cdd3ef501568
 https://vip16.20250920.top/api/v1/client/subscribe?token=d5ca34dfe3f0efc15f098cc4776e1d04
-https://vip16.20250920.top/api/v1/client/subscribe?token=9bb8287f9e6222d4799bd9e8fcb41233
-https://vip16.20250920.top/api/v1/client/subscribe?token=6fbfb68a930d7364126bc1ddd421e60c
-https://vip16.20250920.top/api/v1/client/subscribe?token=119b2e638253817bef82debf16ced480
+https://vip16.20250920.top/api/v1/client/subscribe?token=f8936df040ddafefd1c27e120d83d016
+https://vip16.20250920.top/api/v1/client/subscribe?token=eed7b5c0095926eead738401c1adf33f
+https://vip16.20250920.top/api/v1/client/subscribe?token=e016a18fb541e1ce111b28a4c97380f3
 
 ```
 
