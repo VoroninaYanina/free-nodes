@@ -1,11 +1,11 @@
 # 1. 免费 V2Ray / Trojan / Hysteria2 节点订阅（每日更新）【2025 最新】
 
-> 🎯 **推荐机场：[稳联云](https://ppa.20251009.top/1) · 高速专线加速，高品质体验的正确打开方式！**
+> 🎯 **推荐机场：[稳联云](https://psa.20251009.top/1) · 高速专线加速，高品质体验的正确打开方式！**
 
 - 📶 支持三网（电信/联通/移动）IEPL 专线中继
 - 🌍 全球节点覆盖：香港、日本、美国、台湾、新加坡等
 - 🚀 原生 IP 解锁 Netflix、YouTube、Spotify、TVer 等流媒体
-  👉 [点击立即注册体验稳联云](https://ppa.20251009.top/1)
+  👉 [点击立即注册体验稳联云](https://psa.20251009.top/1)
 
 ---
 
@@ -31,9 +31,9 @@ https://pub02.20251009.top/api/v1/client/subscribe?token=53d3b5d43c9f7be4a2c3858
 https://pub02.20251009.top/api/v1/client/subscribe?token=129d3fd317e18b25321d215a90ae37f8
 https://pub02.20251009.top/api/v1/client/subscribe?token=c011c18c551d327b4cebc723177cf425
 https://pub02.20251009.top/api/v1/client/subscribe?token=5d56ca3f1d95d258a43d437a54b2f6e5
-https://pub02.20251009.top/api/v1/client/subscribe?token=fbd199c31777c9c33e1a870dc7b94294
+https://pub02.20251009.top/api/v1/client/subscribe?token=1cb94b7b8dd4f6a2792aedea327718f9
 https://pub02.20251009.top/api/v1/client/subscribe?token=fb31ff6e036844efd01a77c4a3bba426
-https://pub02.20251009.top/api/v1/client/subscribe?token=a2ab2b4082f76f70dbc722c2479f84e1
+https://pub02.20251009.top/api/v1/client/subscribe?token=34be4f4ad8e1cb2b813c8d6350fd46c5
 https://pub02.20251009.top/api/v1/client/subscribe?token=79607cf4f95bd1ddc8245bd516167b4e
 https://pub02.20251009.top/api/v1/client/subscribe?token=6a6037fbdf7afd943272b0d38adf126e
 https://pub02.20251009.top/api/v1/client/subscribe?token=ab11649cfa857d6563cf82ba8ed80617
@@ -58,14 +58,14 @@ https://pub02.20251009.top/api/v1/client/subscribe?token=1e2bfc256640527286e8ecd
 - [Windows 平台 v2rayN 安装与配置教程](https://proxies.oeooe.cn/v2ray/v2rayN-install/)
 - [Clash Verge Rev 安装与使用教程](https://proxies.oeooe.cn/clash/clash-verge-on-linux/)
 
-## 1.4. 🚀 为什么推荐使用[稳联云机场](https://ppa.20251009.top/1)？
+## 1.4. 🚀 为什么推荐使用[稳联云机场](https://psa.20251009.top/1)？
 
 虽然免费节点可临时使用，但它们：
 
 - 🟥 频繁失效 / 速度不稳定 / 容易封锁
 - 🟧 经常断流 / 影响正常体验
 
-**推荐使用[稳联云](https://ppa.20251009.top/1)机场的原因：**
+**推荐使用[稳联云](https://psa.20251009.top/1)机场的原因：**
 
 | 特性 | 免费节点 | 稳联云机场 |
 |------|----------|-------------|
@@ -74,7 +74,7 @@ https://pub02.20251009.top/api/v1/client/subscribe?token=1e2bfc256640527286e8ecd
 | 客服支持 | 无 | ✅ 工单/电报群支持 |
 | 稳定性 | 多人共享卡顿 | ✅ 独享，稳定高速 |
 
-👉 [点击立即注册体验稳联云](https://ppa.20251009.top/1)
+👉 [点击立即注册体验稳联云](https://psa.20251009.top/1)
 
 ---
 
