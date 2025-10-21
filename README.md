@@ -20,24 +20,24 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 10 月 20 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 10 月 21 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub03.20251020a.top/api/v1/client/subscribe?token=0797e83c6b993b9bd03a96928d52a05f
-https://pub03.20251020a.top/api/v1/client/subscribe?token=924f97e4a76ffac845f8bce738c1b955
-https://pub03.20251020a.top/api/v1/client/subscribe?token=10180d2da542f83e959d3633f8d4c12e
-https://pub03.20251020a.top/api/v1/client/subscribe?token=9a41894050fc46876e3f82c87d6cd611
-https://pub03.20251020a.top/api/v1/client/subscribe?token=483694712e21dace8149b0d58a7b5756
-https://pub03.20251020a.top/api/v1/client/subscribe?token=2a7d6f314b28b7fce5463676c157e9bc
+https://pub03.20251020a.top/api/v1/client/subscribe?token=e99906d2a518c878d7375ab8c5a9604b
+https://pub03.20251020a.top/api/v1/client/subscribe?token=e252976fc21dd1291c290fdcdacc4921
+https://pub03.20251020a.top/api/v1/client/subscribe?token=9c3ad3323169610b2811c2701a01e51e
+https://pub03.20251020a.top/api/v1/client/subscribe?token=44d58a9fed5db0b49e1378bf893d3050
+https://pub03.20251020a.top/api/v1/client/subscribe?token=ab7b07ce05662191be997b59df43f162
+https://pub03.20251020a.top/api/v1/client/subscribe?token=9554b03f347fe3ac50338d382744ad3b
 https://pub03.20251020a.top/api/v1/client/subscribe?token=2d6b3c4544c9045db2f6a4d77478b218
 https://pub03.20251020a.top/api/v1/client/subscribe?token=6796a3c5b52d3fa3bb9071276a6a5b59
 https://pub03.20251020a.top/api/v1/client/subscribe?token=47a3e832f61ff318f7e96ac59251bd64
 https://pub03.20251020a.top/api/v1/client/subscribe?token=337ebab05a0482301dc515926af05e61
 https://pub03.20251020a.top/api/v1/client/subscribe?token=cfd4736c6abe2e9cd48ee2754b746e86
-https://pub03.20251020a.top/api/v1/client/subscribe?token=76fcfe29a6d3d8b9af4ccc70086422bd
+https://pub03.20251020a.top/api/v1/client/subscribe?token=e1fbc8f7cf815470dc379a99790bae80
 https://pub03.20251020a.top/api/v1/client/subscribe?token=7ec564ba334e4178fb8d48d9b9a0e1b7
 
 ```
