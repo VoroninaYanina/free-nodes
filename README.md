@@ -20,23 +20,23 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 07 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 11 月 08 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub10.20251103.top/api/v1/client/subscribe?token=ac1a1655c57a2bdc28f5f3723d4c2bc3
-https://pub10.20251103.top/api/v1/client/subscribe?token=a86442eb4336436552394ed47d0c2d9d
-https://pub10.20251103.top/api/v1/client/subscribe?token=527fd313c00dae4b3d2e9e277d17e038
+https://pub10.20251103.top/api/v1/client/subscribe?token=dbc9b652a82f74d74488748e3bda49d7
+https://pub10.20251103.top/api/v1/client/subscribe?token=a771b9c39e7294fa542f530aabd00d4a
+https://pub10.20251103.top/api/v1/client/subscribe?token=d0f1bb5c62492020a5578ab51aef6ba0
 https://pub10.20251103.top/api/v1/client/subscribe?token=d859dbf617fbf17cc4ff5d289c1ad569
-https://pub10.20251103.top/api/v1/client/subscribe?token=eccacda192ce308eb55901e77326ec8b
+https://pub10.20251103.top/api/v1/client/subscribe?token=04646d5c62fae797be3459a8053fd84c
 https://pub10.20251103.top/api/v1/client/subscribe?token=91eb3630826a3be31e18420777c05218
 https://pub10.20251103.top/api/v1/client/subscribe?token=17d043861905b677c7bf63badfce6413
-https://pub10.20251103.top/api/v1/client/subscribe?token=da12caf45344aa42ba377f58d7393adf
+https://pub10.20251103.top/api/v1/client/subscribe?token=e583f7238956e6e282f846f1178084e2
 https://pub10.20251103.top/api/v1/client/subscribe?token=f02306161af3fae2afe81f63e8c9944c
 https://pub10.20251103.top/api/v1/client/subscribe?token=0840b6fcf4c3535eebdb0a790488c151
-https://pub10.20251103.top/api/v1/client/subscribe?token=74adbed9b4062d2efd70be86329b4118
+https://pub10.20251103.top/api/v1/client/subscribe?token=2da1d3d5b02c0dd8d7ffd0c7c4a69d75
 https://pub10.20251103.top/api/v1/client/subscribe?token=25405b8c000ec3f60db2d3cc1d72526f
 https://pub10.20251103.top/api/v1/client/subscribe?token=1a3caf9f3c9b4430e5468b6ac340c31c
 https://pub10.20251103.top/api/v1/client/subscribe?token=26dd6da3b9c86c09b740cc6299d87abd
