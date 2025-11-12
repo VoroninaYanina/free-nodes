@@ -20,26 +20,26 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 11 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 11 月 12 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub10.20251103.top/api/v1/client/subscribe?token=a495dc4ad6f4a9ea0e831a809655a2b1
-https://pub10.20251103.top/api/v1/client/subscribe?token=0e27055eca45563b28bd0bf143a948de
+https://pub10.20251103.top/api/v1/client/subscribe?token=e4bc0f43164e20afd05e3c31440030e4
+https://pub10.20251103.top/api/v1/client/subscribe?token=a822852201ce581690d93f12e99b64f9
 https://pub10.20251103.top/api/v1/client/subscribe?token=25c822358a86ecb3b15f154acf54e08d
-https://pub10.20251103.top/api/v1/client/subscribe?token=76ef9b4a64f328669ff4dba42f68ce0d
+https://pub10.20251103.top/api/v1/client/subscribe?token=244ae133ebae09fe030f81c50fa33075
 https://pub10.20251103.top/api/v1/client/subscribe?token=80a49229613b9029683c7dfd279c3b38
-https://pub10.20251103.top/api/v1/client/subscribe?token=a5c03a0f52d096c5f45536084426aa99
+https://pub10.20251103.top/api/v1/client/subscribe?token=51335a86763115726bdfdc6181355b14
 https://pub10.20251103.top/api/v1/client/subscribe?token=19f2da92fb0b464091d94669c1640d8d
-https://pub10.20251103.top/api/v1/client/subscribe?token=927a41e4516f7943e7d7d4a892dfa814
+https://pub10.20251103.top/api/v1/client/subscribe?token=45f97ea858e5afb600b7d308a0ec3346
 https://pub10.20251103.top/api/v1/client/subscribe?token=5520002be5fd7f9decee1b75ee586922
 https://pub10.20251103.top/api/v1/client/subscribe?token=cfdc9ce06b38e9ebc8fba1da57fb65ce
 https://pub10.20251103.top/api/v1/client/subscribe?token=2a14e4ff3ab45dca793bb26cdd25e2a0
 https://pub10.20251103.top/api/v1/client/subscribe?token=9b034c6756a0557400be96b0190f62de
 https://pub10.20251103.top/api/v1/client/subscribe?token=5fb8f17b2c271a0c6bbaedafabd04183
-https://pub10.20251103.top/api/v1/client/subscribe?token=bdde1d9741b7e70e78d2890c3dab3826
+https://pub10.20251103.top/api/v1/client/subscribe?token=8c6bea4502dcd8a04af7a6ff9d7d4a97
 https://pub10.20251103.top/api/v1/client/subscribe?token=478eb32417cb45bfcab1f7e799fc84a5
 
 ```
