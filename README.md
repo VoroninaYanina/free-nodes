@@ -20,7 +20,7 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 15 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 11 月 16 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
@@ -39,7 +39,7 @@ https://fn02.20251117.top/api/v1/client/subscribe?token=06ed55430462c965c1bcf873
 https://fn02.20251117.top/api/v1/client/subscribe?token=307851b7600be1dca0f0750022f3b019
 https://fn02.20251117.top/api/v1/client/subscribe?token=345bf2f0eff749049b8e2a1cab540759
 https://fn02.20251117.top/api/v1/client/subscribe?token=6c4f3625333fd654c4e4669b4f41d039
-https://fn02.20251117.top/api/v1/client/subscribe?token=d43b7ae27aa159bf18f60d37a6ece2e9
+https://fn02.20251117.top/api/v1/client/subscribe?token=553253523de6fb9b4defceda3492fe34
 https://fn02.20251117.top/api/v1/client/subscribe?token=31602f9753abd02cabeeb9936b50a366
 
 ```
