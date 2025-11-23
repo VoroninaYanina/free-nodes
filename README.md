@@ -20,27 +20,27 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 22 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 11 月 23 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.20251117.top/api/v1/client/subscribe?token=918b3f978bcfad82370dfefdb371fda9
-https://fn02.20251117.top/api/v1/client/subscribe?token=b1f34921b02cdc828fbe0f1788d4e11b
-https://fn02.20251117.top/api/v1/client/subscribe?token=fcd40eda0a2f7ddf7f8ded8a846a6b7f
-https://fn02.20251117.top/api/v1/client/subscribe?token=d4f87f3c3fcacf30c48434b60f0742ec
+https://fn02.20251117.top/api/v1/client/subscribe?token=61820450c7d4e595f978a544d871716c
+https://fn02.20251117.top/api/v1/client/subscribe?token=bd9f0cec4db6467e730537cf151788df
+https://fn02.20251117.top/api/v1/client/subscribe?token=091a46813b92494c8d0b01d3358d9a0e
+https://fn02.20251117.top/api/v1/client/subscribe?token=55bd37be62b4df9a5a3aaeb868443c8d
 https://fn02.20251117.top/api/v1/client/subscribe?token=a4d3e3c74febba3b7019c7a622b97105
-https://fn02.20251117.top/api/v1/client/subscribe?token=43cdd4417457d61e1139331a7c6f8fcd
+https://fn02.20251117.top/api/v1/client/subscribe?token=9be7db60add6fa349aeb6b7233bd130f
 https://fn02.20251117.top/api/v1/client/subscribe?token=33cabe861c5abb9db7e802658176c57d
 https://fn02.20251117.top/api/v1/client/subscribe?token=7a604956a12f3dd04fa71efe7e8b6e51
 https://fn02.20251117.top/api/v1/client/subscribe?token=309407f054f74572984ce5517d6eef0a
 https://fn02.20251117.top/api/v1/client/subscribe?token=e87390ef5ceb09fe1ef2fb1a9dce50de
 https://fn02.20251117.top/api/v1/client/subscribe?token=4cba8262d7c3f518dd95b664aa63a251
 https://fn02.20251117.top/api/v1/client/subscribe?token=5c9fbcf8545421ae1ae85b88208b417a
-https://fn02.20251117.top/api/v1/client/subscribe?token=6c82bb52e55fac4cf88d870aa74053ce
-https://fn02.20251117.top/api/v1/client/subscribe?token=1daeb2f07449bcb1871be7c12a6e588c
-https://fn02.20251117.top/api/v1/client/subscribe?token=5eac6f9d9cdb4289d3966c1ee117d85e
+https://fn02.20251117.top/api/v1/client/subscribe?token=94c0e724feb42145efa9106552e9a8c0
+https://fn02.20251117.top/api/v1/client/subscribe?token=0ddab03832a83bcf6d2ce17ebd4ca3a0
+https://fn02.20251117.top/api/v1/client/subscribe?token=fbae873289453cf5d283caa2ff75a755
 
 ```
 
