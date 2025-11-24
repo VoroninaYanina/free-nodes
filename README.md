@@ -20,15 +20,15 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 23 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 11 月 24 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.20251117.top/api/v1/client/subscribe?token=2b489ea2fdf2ac74808de0f74a4484ae
+https://fn02.20251117.top/api/v1/client/subscribe?token=550f723c3d45513c11b226ce1316f7f4
 https://fn02.20251117.top/api/v1/client/subscribe?token=7876d12153316825c918f654f5a9fb4f
-https://fn02.20251117.top/api/v1/client/subscribe?token=9449d47608ad8945387cb5b6b5064087
+https://fn02.20251117.top/api/v1/client/subscribe?token=840478ddb739975ab665e5ae8ff55963
 https://fn02.20251117.top/api/v1/client/subscribe?token=7496a06023109eaf9d80e442d3da2950
 https://fn02.20251117.top/api/v1/client/subscribe?token=4af862f5f54b94a87cff3a4dabfdd0d2
 https://fn02.20251117.top/api/v1/client/subscribe?token=62ba7921f046c706ebf574c6dbacfc6d
@@ -40,7 +40,7 @@ https://fn02.20251117.top/api/v1/client/subscribe?token=681e05b573144d2f71fdccf0
 https://fn02.20251117.top/api/v1/client/subscribe?token=c4b04e4bddc6617738d42a2e8991a854
 https://fn02.20251117.top/api/v1/client/subscribe?token=bf940d65d1045a9025c8d3152631ff7e
 https://fn02.20251117.top/api/v1/client/subscribe?token=dc7b0faa2e9d54cefdad6bb4fe4bbedd
-https://fn02.20251117.top/api/v1/client/subscribe?token=169b8c39cabe9d4bdf7b216aa05ad579
+https://fn02.20251117.top/api/v1/client/subscribe?token=b136157575fe710d8ff1c14d8c00eb8f
 
 ```
 
