@@ -20,27 +20,28 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 11 月 24 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 12 月 24 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.20251117.top/api/v1/client/subscribe?token=a3aeaf26daa115180051e6b32af20de8
-https://fn02.20251117.top/api/v1/client/subscribe?token=0b7f3f358123383778c77cc217beb4a6
-https://fn02.20251117.top/api/v1/client/subscribe?token=54b1b7565572cd979f0908445135a4a9
-https://fn02.20251117.top/api/v1/client/subscribe?token=44ca326d8256056ba1a8130f328013d7
-https://fn02.20251117.top/api/v1/client/subscribe?token=02a9c8b5eb7f8ae314eaae868156a71a
-https://fn02.20251117.top/api/v1/client/subscribe?token=8f8616420807193fe1d326bd64562849
-https://fn02.20251117.top/api/v1/client/subscribe?token=1af2f6cb62e1d011c68dca19222d3476
-https://fn02.20251117.top/api/v1/client/subscribe?token=f2dff9f81ed71eb26ebefd8302260770
-https://fn02.20251117.top/api/v1/client/subscribe?token=3e25d582968279ac995524f8f54705ff
-https://fn02.20251117.top/api/v1/client/subscribe?token=f84dd9fe00c1eda98008677a47406712
-https://fn02.20251117.top/api/v1/client/subscribe?token=edf13fa0e3eb90e4e1c32168cc65625e
-https://fn02.20251117.top/api/v1/client/subscribe?token=2b4e1d18bc1ea56d7e989854dc35ba6e
-https://fn02.20251117.top/api/v1/client/subscribe?token=ec275b076c12fc98242d0184d8240d75
-https://fn02.20251117.top/api/v1/client/subscribe?token=4ea995fff607a515b30de00a5b7cb446
-https://fn02.20251117.top/api/v1/client/subscribe?token=ed60751bd49b4bcce1a12201800e5a63
+https://fn03.20251117.top/s/a3aeaf26daa115180051e6b32af20de8
+https://fn03.20251117.top/s/0b7f3f358123383778c77cc217beb4a6
+https://fn03.20251117.top/s/54b1b7565572cd979f0908445135a4a9
+https://fn03.20251117.top/s/44ca326d8256056ba1a8130f328013d7
+https://fn03.20251117.top/s/d28ae2b5c49fbe59ff986a79df314c1a
+https://fn03.20251117.top/s/4312887a10b4e5315315e462c28334a4
+https://fn03.20251117.top/s/1af2f6cb62e1d011c68dca19222d3476
+https://fn03.20251117.top/s/f2dff9f81ed71eb26ebefd8302260770
+https://fn03.20251117.top/s/3e25d582968279ac995524f8f54705ff
+https://fn03.20251117.top/s/f84dd9fe00c1eda98008677a47406712
+https://fn03.20251117.top/s/edf13fa0e3eb90e4e1c32168cc65625e
+https://fn03.20251117.top/s/2b4e1d18bc1ea56d7e989854dc35ba6e
+https://fn03.20251117.top/s/a63a9b7e31b3e61bc1c643fbf50f5e36
+https://fn03.20251117.top/s/4ea995fff607a515b30de00a5b7cb446
+https://fn03.20251117.top/s/ed60751bd49b4bcce1a12201800e5a63
+https://fn03.20251117.top/s/26dfc8a6a504424c4c25f91d336653ba
 
 ```
 
