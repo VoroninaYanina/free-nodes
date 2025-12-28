@@ -20,28 +20,28 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2025 年 12 月 27 日 更新)
+### 1.2.1. ✅ 最新订阅(2025 年 12 月 28 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn03.20251117.top/s/3ec4fe79f2716207160ebda3b0c23b9c
-https://fn03.20251117.top/s/cad1482ac88cb16f247369d181cc4e6c
-https://fn03.20251117.top/s/1d152281bf8f43a40449add0270b986d
+https://fn03.20251117.top/s/9b2a914e2e7bb47177053a1aba8fcb6b
+https://fn03.20251117.top/s/eb52a48234c22e3f354ba60e45149c45
+https://fn03.20251117.top/s/547fff16643b44a0ae37451d84829170
 https://fn03.20251117.top/s/961e2a7e30839d3d28f397c39cd3a150
-https://fn03.20251117.top/s/68dac8ec5acea4c48b0fff2eb0358cfc
-https://fn03.20251117.top/s/8c7a53ceb95b03e2e47fa6f43177afe5
-https://fn03.20251117.top/s/6a5353a13e7a2ed13c35dcd0b6afbb80
+https://fn03.20251117.top/s/08a3d7ab4696cdc62e7e7ac1c1fddf92
+https://fn03.20251117.top/s/85a71fbbf419c3f8e19894f9babbd764
+https://fn03.20251117.top/s/9accd25adabbea1351c753046090d898
 https://fn03.20251117.top/s/f0137d5feef6d1f0793a98e77f02220d
-https://fn03.20251117.top/s/9f0f8f019996cc8464fef47f76b86384
-https://fn03.20251117.top/s/6deac19b3475cfbdd3d7d372a74c1ec3
+https://fn03.20251117.top/s/8c1786668981e6dfb45808ea2f0f1592
+https://fn03.20251117.top/s/d6af264213477c8db05919ba5db39fb3
 https://fn03.20251117.top/s/4d8ee74856c6d71aba097fcb73457100
-https://fn03.20251117.top/s/8c0689e781e448e8d2a72b5b47b4b47f
-https://fn03.20251117.top/s/7668483a48d828789d15bf632dc92f57
-https://fn03.20251117.top/s/af348a7836dc67ed19c5ebcf17229d54
-https://fn03.20251117.top/s/700260855daa4430749decb94c7e3731
-https://fn03.20251117.top/s/d31ea7c52f90a0280f4626da1b9d39ff
+https://fn03.20251117.top/s/3f93f61d17a98df6c72800fcb3016b6d
+https://fn03.20251117.top/s/61b451f8cc3cea912aa23b400368e487
+https://fn03.20251117.top/s/dfab0621b08c6528323ccf786127cba9
+https://fn03.20251117.top/s/27b09d63be108bcc8a568c39364528c4
+https://fn03.20251117.top/s/b58f0307d834d4ee6c086688338f67ae
 
 ```
 
