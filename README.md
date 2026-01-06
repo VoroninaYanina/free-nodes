@@ -20,28 +20,28 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 01 月 05 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 01 月 06 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn07.sp1230.top/s/56aa3a9f8e548bf17b627fdedbb37de4
-https://fn07.sp1230.top/s/9a312590ca81efe2eeded2a2ac5e162b
-https://fn07.sp1230.top/s/9b4d0a1830fedaf86b2e565cef97793a
-https://fn07.sp1230.top/s/40e8b2c7db2e06364c5f11ae5eb73502
-https://fn07.sp1230.top/s/d2ac6915ef069c95cce2f1b2850d41cd
-https://fn07.sp1230.top/s/5f4364c7eb73cce67b88dfad8a32f236
-https://fn07.sp1230.top/s/c143b9974089a2ee0b3c43cedaffc21a
-https://fn07.sp1230.top/s/52726d367955fd3d6ad0eaba10496550
-https://fn07.sp1230.top/s/3bf2a305bb496ed32c77139a45484ce2
-https://fn07.sp1230.top/s/a52b6ffdccc26f144ba4db7b29822a84
-https://fn07.sp1230.top/s/f8c4cfa4dc49efb3ce5649a48efbe2c9
-https://fn07.sp1230.top/s/912afe2e35d8567354558f4cebd84bd8
-https://fn07.sp1230.top/s/9be8c05e43d87f401e7205a3cb5313e2
-https://fn07.sp1230.top/s/8ff9c794872fd8f5f6eb49f5260249b0
-https://fn07.sp1230.top/s/98f2fdff9f488a471ba71f336801df67
-https://fn07.sp1230.top/s/dca10d099d13da3f6f2ccc72c348e640
+https://fn08.sp1230.top/s/56aa3a9f8e548bf17b627fdedbb37de4
+https://fn08.sp1230.top/s/3d0e3d5d47d12edec35ff40070ca159e
+https://fn08.sp1230.top/s/9b4d0a1830fedaf86b2e565cef97793a
+https://fn08.sp1230.top/s/40e8b2c7db2e06364c5f11ae5eb73502
+https://fn08.sp1230.top/s/b6e26cae11821a847aa2d822502c04e0
+https://fn08.sp1230.top/s/5f4364c7eb73cce67b88dfad8a32f236
+https://fn08.sp1230.top/s/70aa0327fe09fa894cc4af03e23dbbfa
+https://fn08.sp1230.top/s/52726d367955fd3d6ad0eaba10496550
+https://fn08.sp1230.top/s/3bf2a305bb496ed32c77139a45484ce2
+https://fn08.sp1230.top/s/a52b6ffdccc26f144ba4db7b29822a84
+https://fn08.sp1230.top/s/384ec9f9b0dc1ad7eb5e79bb8b333d1e
+https://fn08.sp1230.top/s/912afe2e35d8567354558f4cebd84bd8
+https://fn08.sp1230.top/s/9be8c05e43d87f401e7205a3cb5313e2
+https://fn08.sp1230.top/s/8ff9c794872fd8f5f6eb49f5260249b0
+https://fn08.sp1230.top/s/d3ccfceb00d8356e83b9543e1f61311a
+https://fn08.sp1230.top/s/dca10d099d13da3f6f2ccc72c348e640
 
 ```
 
