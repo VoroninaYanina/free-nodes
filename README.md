@@ -20,28 +20,28 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 02 月 12 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 02 月 13 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/9538ff3a52d6677bbf0565db0b79b777
-https://fn10.sp1230.top/s/4b73b62bb6b14f399b65e723b18076e0
-https://fn10.sp1230.top/s/ae1e8044a5d447111243289af317b46c
-https://fn10.sp1230.top/s/0e759602d0e359f8cf502d9c1c7bdaeb
-https://fn10.sp1230.top/s/3bfbf282067673884fae468cf5eefb21
-https://fn10.sp1230.top/s/1a3ddc849c48d339025a0e955bdce2c9
-https://fn10.sp1230.top/s/36432a3512fdfec8ec5ccc94f1fd438f
-https://fn10.sp1230.top/s/27967d8df57141422dfa190c69d0049d
-https://fn10.sp1230.top/s/47dd6604827011163a2829e1bf9b44cd
-https://fn10.sp1230.top/s/5c8a6e6a8e5f4cbdb15bbc106204aec8
-https://fn10.sp1230.top/s/ca3371d15c6c76b2ce036810ef6e128d
-https://fn10.sp1230.top/s/8a6bb7f1b22831aba7dfe3c09e802fa4
-https://fn10.sp1230.top/s/b923d35d2fdfdcc46b5360aa560c3651
-https://fn10.sp1230.top/s/5041108da95f4ca39d3e492d4b6f7ec4
-https://fn10.sp1230.top/s/b0f4c3076e6b6a1c7441c971a2b2f6e1
-https://fn10.sp1230.top/s/9e8173959e42dcac2e74631e6a87a744
+https://fn10.sp1230.top/s/cab51cc9b84c77b1b4670c58ffc74619
+https://fn10.sp1230.top/s/935060c88fa9a27ff178c14edaa36fc3
+https://fn10.sp1230.top/s/b58182fb00241a3376b77dc2187324a4
+https://fn10.sp1230.top/s/1b91d5feb129047ccf414572cfa3b1fe
+https://fn10.sp1230.top/s/796c80905b2bbeef661a45bcb6687277
+https://fn10.sp1230.top/s/8169fd946d559f4c6da875e93a4d30aa
+https://fn10.sp1230.top/s/cea5c8691ce5722fa55f442ccd8bbb67
+https://fn10.sp1230.top/s/b323a0ff7bd735e6211a5deafa6f7d18
+https://fn10.sp1230.top/s/40225cc4c22197e4fc001022e65f9ee1
+https://fn10.sp1230.top/s/6fc6b22480b0a3521d131237a81176be
+https://fn10.sp1230.top/s/3e2b3aea8cd43485fb4e64e37868ec3f
+https://fn10.sp1230.top/s/95e52a9b56d21a6bbb8c2c0271814b27
+https://fn10.sp1230.top/s/330b95f687b0661e60d962f0e3c18ddc
+https://fn10.sp1230.top/s/d02ac2faf597388f3a3c63e2963aae71
+https://fn10.sp1230.top/s/1409fe5fd3ca96677b1e0767e44a596e
+https://fn10.sp1230.top/s/8d8e99898568220f6e203be6f9428f37
 
 ```
 
