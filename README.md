@@ -20,7 +20,7 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 03 月 07 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 03 月 08 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
@@ -28,17 +28,17 @@
 
 https://fn12.sp1230.top/s/625a3f104566c91a3e032261b6a88e30
 https://fn12.sp1230.top/s/2432618a86798cb840748f2745824c83
-https://fn12.sp1230.top/s/d15e5ba479208d81706565a9b6a3b3b6
-https://fn12.sp1230.top/s/102dabb246d4c1a6f5bcb78edd9e4c94
+https://fn12.sp1230.top/s/449193082423824192fc6fb7a5e0eb7b
+https://fn12.sp1230.top/s/2066cc0bf0ebceb1ad8ca49fe1bd71ee
 https://fn12.sp1230.top/s/2ed1bc7ac5c9fc11a4d7939e7d24afc9
-https://fn12.sp1230.top/s/205904b37398dda18c08499c3f3b9528
-https://fn12.sp1230.top/s/4e79e4762a978d28fb9c9e9b0a8a942b
-https://fn12.sp1230.top/s/bc3cf68bfdc1973023aedb7399980b16
-https://fn12.sp1230.top/s/038411fcbe592c8ea92f45fd9c9713db
+https://fn12.sp1230.top/s/edadf485c9e83039ebb5b55021d5b985
+https://fn12.sp1230.top/s/06a221a0ebea0470c840cef287d3ff76
+https://fn12.sp1230.top/s/1628db59036bb91cc525c175e426ab58
+https://fn12.sp1230.top/s/58b0017826acd63482f3cfb2aecbe9b7
 https://fn12.sp1230.top/s/c0f920d1434a6346f869da13f7dee578
-https://fn12.sp1230.top/s/bd81f152480fc95f6405f2c0bb2e872b
-https://fn12.sp1230.top/s/1357509fd29dfda6ce2f7326f144fdd5
-https://fn12.sp1230.top/s/39bfbae3fbd42c79ecd2a2602fe5a182
+https://fn12.sp1230.top/s/f7f82cd2a18428688f686f37615caa83
+https://fn12.sp1230.top/s/4c2f23b644bb367038e2525370f8b5be
+https://fn12.sp1230.top/s/b88ed34f891cfb4e1d8be089036e4b4b
 https://fn12.sp1230.top/s/3f3798b2eb3dc74cb3a34340472c16e1
 https://fn12.sp1230.top/s/4f5f31bec944ddf912c7c102bd094d41
 https://fn12.sp1230.top/s/473cc3767df3f18548f328af9bb2aadc
