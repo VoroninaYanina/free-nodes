@@ -20,27 +20,27 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 03 月 08 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 03 月 09 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.sp0303.xyz/s/b029c617ec72859246cd1acd07bdff1c
-https://fn02.sp0303.xyz/s/785e7c5960fcdcf8fce02aeb2fa4a746
-https://fn02.sp0303.xyz/s/18ea5d8864f72fe84c54ed02d095a41a
+https://fn02.sp0303.xyz/s/0dee8e80253e09a8a1755bb5642a2dfa
+https://fn02.sp0303.xyz/s/51692f1fca03eb2c26d62fa0fd86a6ee
+https://fn02.sp0303.xyz/s/4060388c980ba16d74f30857bde9fea4
 https://fn02.sp0303.xyz/s/c4642cd3a5b773924f8c409273f0c2c2
 https://fn02.sp0303.xyz/s/923efc2ba49499825800bed923fce830
 https://fn02.sp0303.xyz/s/edadf485c9e83039ebb5b55021d5b985
 https://fn02.sp0303.xyz/s/70e5f0dc34b735d9e65a584be6a82731
-https://fn02.sp0303.xyz/s/1628db59036bb91cc525c175e426ab58
-https://fn02.sp0303.xyz/s/58b0017826acd63482f3cfb2aecbe9b7
+https://fn02.sp0303.xyz/s/f62cba7c2f70522eb8207b4abd1c24b2
+https://fn02.sp0303.xyz/s/85ccd76b95beb10cddbe111b9db1b204
 https://fn02.sp0303.xyz/s/5b707af81caa8dc1394146b98f48aeb7
 https://fn02.sp0303.xyz/s/f7f82cd2a18428688f686f37615caa83
 https://fn02.sp0303.xyz/s/78cb70991903ad20ba80058a98b1df18
 https://fn02.sp0303.xyz/s/7c83f9d00696cdfc479b6da40cd6b91b
 https://fn02.sp0303.xyz/s/4670db8a3ad72f949a75eb80481ea5c9
-https://fn02.sp0303.xyz/s/febaee3575bf501265f99a88ad814407
+https://fn02.sp0303.xyz/s/df8b001b17ed6ae5a5f82472eb2f6d09
 https://fn02.sp0303.xyz/s/a34be3ed23c21793c9d797bb81c66830
 
 ```
