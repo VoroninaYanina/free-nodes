@@ -20,27 +20,27 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 03 月 30 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 03 月 31 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn08.sp0303.xyz/nodes/e68d61efbf7f83f8d564a2bded5772fb
-https://fn08.sp0303.xyz/nodes/1276e60725461845adca97e1d65a14eb
-https://fn08.sp0303.xyz/nodes/747cc282e3988760d34e4950830dfe6b
-https://fn08.sp0303.xyz/nodes/1756c165bc80ad9109e831e8b8b4a077
-https://fn08.sp0303.xyz/nodes/230e8dab6c6c2cad641aabf3136ade2f
-https://fn08.sp0303.xyz/nodes/1139619ff3ea85925b38ab60a2cb4d22
-https://fn08.sp0303.xyz/nodes/59861a42fe5377655b97ddaf1d2d6023
-https://fn08.sp0303.xyz/nodes/b43922266710e650a3b9d4512b3ab85b
-https://fn08.sp0303.xyz/nodes/745ae141672618ff1a1df28edee1d0bc
-https://fn08.sp0303.xyz/nodes/94ede731795b4fb885cd6dfb67006c75
-https://fn08.sp0303.xyz/nodes/933ec6a8133162aa755ddd33db767a37
-https://fn08.sp0303.xyz/nodes/0c32ae13ac1a303293577b01a8c81293
-https://fn08.sp0303.xyz/nodes/b851ff7b52941c5c1569f571c717012b
-https://fn08.sp0303.xyz/nodes/57c9f6c4175c77aaa340ffb5dc8315df
-https://fn08.sp0303.xyz/nodes/d61930d83de33e30dafbf36a751b098c
+https://fn08.sp0303.xyz/nodes/65eaeeae673df8980dbbd518c6a1aa48
+https://fn08.sp0303.xyz/nodes/75b92befd698a158ec977abbf62b86b0
+https://fn08.sp0303.xyz/nodes/30d399217a69b2bd3c423fa5cdccb4df
+https://fn08.sp0303.xyz/nodes/b6547b87091df41da9b015fab0916949
+https://fn08.sp0303.xyz/nodes/d7d2e8bf07899fa6360fbf0389d4f867
+https://fn08.sp0303.xyz/nodes/59648d116b541a2b1436a4f909e10238
+https://fn08.sp0303.xyz/nodes/d271bbe84cdc88790167146d819a11dc
+https://fn08.sp0303.xyz/nodes/4e6ad10fc9e8ffc35362b8853f7aa359
+https://fn08.sp0303.xyz/nodes/20865e70ff78697cd1f8165588ed0df9
+https://fn08.sp0303.xyz/nodes/50b36013a1f5ddd233b5ae38d88025be
+https://fn08.sp0303.xyz/nodes/a772481a5e07979d0a752826948b5d85
+https://fn08.sp0303.xyz/nodes/f6d0efbec933cbb03eb9005ae7f0d292
+https://fn08.sp0303.xyz/nodes/46678c7cf8f7bd4f7c7c7e4fa0af6fc8
+https://fn08.sp0303.xyz/nodes/bd3a3c37c68c10ba695c133a0549728c
+https://fn08.sp0303.xyz/nodes/ebf3fb640b16429e0e68853fc0c171b6
 
 ```
 
