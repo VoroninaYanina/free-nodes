@@ -20,21 +20,21 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 05 月 05 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 05 月 06 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn08.sp0303.xyz/nodes/f6fc48d6081807d4f8f9071c96ee1024
-https://fn08.sp0303.xyz/nodes/e70ddcf6c661269b570fa771a789a767
+https://fn08.sp0303.xyz/nodes/87fe19e8df5b3a8feb69dd012a916a40
+https://fn08.sp0303.xyz/nodes/12fc273165abfd485d863f7e12126597
 https://fn08.sp0303.xyz/nodes/580490bea987e2101d9b66c13c78ef4d
 https://fn08.sp0303.xyz/nodes/0f9fae0c98158edc1fb746c1abef6c50
-https://fn08.sp0303.xyz/nodes/ad640835202e13b5e2f14f620d2a2222
+https://fn08.sp0303.xyz/nodes/93f20b73bfa38aa56bb3aa1875d72c02
 https://fn08.sp0303.xyz/nodes/2adc385f7c79d3b1e88b7bfc3d55ae97
 https://fn08.sp0303.xyz/nodes/04df0602316dde7cd53db934d332faa5
-https://fn08.sp0303.xyz/nodes/edab5633c6ddd709aa0c439967b1ffc2
-https://fn08.sp0303.xyz/nodes/88f5addf30da043611f42da8f94fb630
+https://fn08.sp0303.xyz/nodes/2c48121cf422b0110377a7ccb28a033c
+https://fn08.sp0303.xyz/nodes/898da09e9a74ae2af1bf7aac10f873b2
 https://fn08.sp0303.xyz/nodes/f35acb7f8d77fe49777fbc41b205955c
 https://fn08.sp0303.xyz/nodes/1d15ad7e4910e183fb4fde03be8359bd
 https://fn08.sp0303.xyz/nodes/4a89728be116b58ddad3038a1364d641
@@ -42,7 +42,7 @@ https://fn08.sp0303.xyz/nodes/c9e81f8c6e19a471831a77392538e151
 https://fn08.sp0303.xyz/nodes/29157ad75591dc370dbd811716a86d00
 https://fn08.sp0303.xyz/nodes/28ba8589821272e85edf975006948661
 https://fn08.sp0303.xyz/nodes/e28efb82900e0fbef022c4b17ffb8e4e
-https://fn08.sp0303.xyz/nodes/d7cbc7151b71590329075968083b50c7
+https://fn08.sp0303.xyz/nodes/5588c2c4bfadb537e3941473bfd2c351
 
 ```
 
