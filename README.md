@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 05 月 07 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 05 月 08 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn08.sp0303.xyz/nodes/3cf5059fb8187a831aec7fce8c702169
-https://fn08.sp0303.xyz/nodes/ad442078aaca8a8730262ef332e6118c
-https://fn08.sp0303.xyz/nodes/b595e1e7eb2b556d3e619a637d13ccf3
-https://fn08.sp0303.xyz/nodes/abbb2eccfdc3eb1d283f91b43d18b054
-https://fn08.sp0303.xyz/nodes/a3dc2625a240ccb47735289dc06b6f68
-https://fn08.sp0303.xyz/nodes/30dd4429e0df362a3e487d3d6912e7f5
-https://fn08.sp0303.xyz/nodes/8d3f92d17c5703a924a73e6fbf2b4be0
-https://fn08.sp0303.xyz/nodes/544c73f21feff5bf9f47bbc088739c80
-https://fn08.sp0303.xyz/nodes/09c7b3227f4cfacdd2f2124bf7434527
-https://fn08.sp0303.xyz/nodes/170d39445c986e4df612e50facec598d
-https://fn08.sp0303.xyz/nodes/dac3054b546db67ec803a479ddcd1a46
-https://fn08.sp0303.xyz/nodes/94d5424f98d0bd8c13bb45997e9218a6
-https://fn08.sp0303.xyz/nodes/0eb1a59132a687f1db4d3971fd6d03f4
-https://fn08.sp0303.xyz/nodes/04de1e31ff18b1c043f61956406fff88
-https://fn08.sp0303.xyz/nodes/344407f8974b0a16dd5e3b141d69a2e4
-https://fn08.sp0303.xyz/nodes/292ff7bcc7c5d755bbc5fef9499e13ff
-https://fn08.sp0303.xyz/nodes/70fc40b26d428c078931c601c407d26f
+https://fn08.sp0502.xyz/nodes/3cf5059fb8187a831aec7fce8c702169
+https://fn08.sp0502.xyz/nodes/ad442078aaca8a8730262ef332e6118c
+https://fn08.sp0502.xyz/nodes/b595e1e7eb2b556d3e619a637d13ccf3
+https://fn08.sp0502.xyz/nodes/abbb2eccfdc3eb1d283f91b43d18b054
+https://fn08.sp0502.xyz/nodes/a3dc2625a240ccb47735289dc06b6f68
+https://fn08.sp0502.xyz/nodes/30dd4429e0df362a3e487d3d6912e7f5
+https://fn08.sp0502.xyz/nodes/8d3f92d17c5703a924a73e6fbf2b4be0
+https://fn08.sp0502.xyz/nodes/544c73f21feff5bf9f47bbc088739c80
+https://fn08.sp0502.xyz/nodes/09c7b3227f4cfacdd2f2124bf7434527
+https://fn08.sp0502.xyz/nodes/170d39445c986e4df612e50facec598d
+https://fn08.sp0502.xyz/nodes/dac3054b546db67ec803a479ddcd1a46
+https://fn08.sp0502.xyz/nodes/94d5424f98d0bd8c13bb45997e9218a6
+https://fn08.sp0502.xyz/nodes/0eb1a59132a687f1db4d3971fd6d03f4
+https://fn08.sp0502.xyz/nodes/04de1e31ff18b1c043f61956406fff88
+https://fn08.sp0502.xyz/nodes/344407f8974b0a16dd5e3b141d69a2e4
+https://fn08.sp0502.xyz/nodes/292ff7bcc7c5d755bbc5fef9499e13ff
+https://fn08.sp0502.xyz/nodes/70fc40b26d428c078931c601c407d26f
 
 ```
 
