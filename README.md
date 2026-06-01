@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 05 月 31 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 06 月 01 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn09.sp0502.xyz/nodes/f3be9e3f4b7ad98dd32f6f323d76dc6d
-https://fn09.sp0502.xyz/nodes/f36e2f192791d620632942fde455ef88
-https://fn09.sp0502.xyz/nodes/ff2ead87205a67608a01812d5a57f7b7
-https://fn09.sp0502.xyz/nodes/3e0f3e92a355044695def6429d5d77a8
+https://fn09.sp0502.xyz/nodes/25ecaadbb053a11656670e705c5d794c
+https://fn09.sp0502.xyz/nodes/4940b59b55bb6ea1c4901fc593a7bf6e
+https://fn09.sp0502.xyz/nodes/49272b006a003d3b88a18e4cb9ddbe5a
+https://fn09.sp0502.xyz/nodes/521f362f61a8e52ed79747abe9c6329b
 https://fn09.sp0502.xyz/nodes/49e3d4acae289c8cd7c999bc6d16f6a3
-https://fn09.sp0502.xyz/nodes/bd9c050aa0208dcf77fb2f20521a9f98
+https://fn09.sp0502.xyz/nodes/78046346d791b4b5c9aeb7eec1b0ca6b
 https://fn09.sp0502.xyz/nodes/2313fd4c5cd884164c11715ddd2bd217
-https://fn09.sp0502.xyz/nodes/e04e64ca81d0bb696f9e277ff4ebce9d
-https://fn09.sp0502.xyz/nodes/bac5e313b0192549dde13789ad46a7a6
-https://fn09.sp0502.xyz/nodes/6822753fc06b12f3e7f135ad369535f6
-https://fn09.sp0502.xyz/nodes/734d3e89438a52accc9f8114ed95c749
-https://fn09.sp0502.xyz/nodes/4515497c9d3c8a32c46ffc0fd538ea7a
-https://fn09.sp0502.xyz/nodes/a9cb8d5025d918ca87b804317a972520
-https://fn09.sp0502.xyz/nodes/2c84aa905b60a24b776800fecb5d78aa
-https://fn09.sp0502.xyz/nodes/cacb12f2e00317d2897d88040cf4ef3e
-https://fn09.sp0502.xyz/nodes/b4a5fbe18cf9b8f78dc29c01659e6fa1
-https://fn09.sp0502.xyz/nodes/2f0d17f5b1e96d77b517506923d50225
+https://fn09.sp0502.xyz/nodes/d63e8641439a9d0263beba9d447ce940
+https://fn09.sp0502.xyz/nodes/c0f312b45986ea9dac12d22282e5b90a
+https://fn09.sp0502.xyz/nodes/f7964181251813122c547260e0538ff7
+https://fn09.sp0502.xyz/nodes/1a9a607f58a7ccb1acbf157b75836149
+https://fn09.sp0502.xyz/nodes/0695a2bba33795f90ee177cf5bbccfe3
+https://fn09.sp0502.xyz/nodes/6a3003b71e2151ffbb959b7a1edefd90
+https://fn09.sp0502.xyz/nodes/8a5fc0369dba01ed2bb1306365a8441d
+https://fn09.sp0502.xyz/nodes/8fd2d25964fb926ddb32b4cafe815d35
+https://fn09.sp0502.xyz/nodes/8454e82c50a422868908c9019d6c7ce2
+https://fn09.sp0502.xyz/nodes/12253222c973a80b35c1aeacb17cb9ea
 
 ```
 
