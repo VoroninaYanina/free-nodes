@@ -20,17 +20,17 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 06 月 01 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 06 月 02 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn09.sp0502.xyz/nodes/d98fd178c4b1d5f7391c3b7a007bf4c8
-https://fn09.sp0502.xyz/nodes/c0af1f95f8f82648893be5406c5e5321
-https://fn09.sp0502.xyz/nodes/cc4a1e8dd3dcb799adf86907818467e0
+https://fn09.sp0502.xyz/nodes/d212910dfcc099b9106ddd7d321ebe7f
+https://fn09.sp0502.xyz/nodes/e8902acf53d56e3188a3df33236c58d1
+https://fn09.sp0502.xyz/nodes/0ba71a4631620a5ffa37272f44eb9a22
 https://fn09.sp0502.xyz/nodes/0059e5e483a2b6484ef677863630ddd0
-https://fn09.sp0502.xyz/nodes/c9a16c336346962955fb807d64f91ec2
+https://fn09.sp0502.xyz/nodes/ce7a8d2d0a1f435434400b31ccb64ed2
 https://fn09.sp0502.xyz/nodes/bce7045a50666a5c90a3078f252c1d0c
 https://fn09.sp0502.xyz/nodes/21ef05c5260ca3e22770791aac8dcdd5
 https://fn09.sp0502.xyz/nodes/0957c9be0ef487d2502b8c5d1f1fbd19
