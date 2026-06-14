@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 06 月 13 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 06 月 14 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp0529.xyz/nodes/5f536fd892521ecfd6b18e520f1e2183
+https://fn10.sp0529.xyz/nodes/658a493dde4c25995462d0c3a88599ea
 https://fn10.sp0529.xyz/nodes/e1c45791a650356b67f5e4562403244c
-https://fn10.sp0529.xyz/nodes/f182f52ba81b6b9cdc09e3fd557c6c01
+https://fn10.sp0529.xyz/nodes/376ca67c0ff02ce461ae82bc5b201f09
 https://fn10.sp0529.xyz/nodes/519c5727524e25a76dc6fbf73e0a6d69
-https://fn10.sp0529.xyz/nodes/c0dc3cc672f4fef8f5cd963ca4765517
+https://fn10.sp0529.xyz/nodes/447323a1598915c0f2e8e7c0bc12d43a
 https://fn10.sp0529.xyz/nodes/03530c463cea27ed9ddbee52c534c7a8
-https://fn10.sp0529.xyz/nodes/ade617dcf9e09a58c62bdb3c707c474c
+https://fn10.sp0529.xyz/nodes/c13cdae8b12264aac3971b6bab0f1bf4
 https://fn10.sp0529.xyz/nodes/661a3dc91d1158f6f29bb8c036cc94b2
-https://fn10.sp0529.xyz/nodes/41d276b436e4fabfc1c1d9009c985357
-https://fn10.sp0529.xyz/nodes/235f4f5fbbeb3e64975d84c6827ef3a4
-https://fn10.sp0529.xyz/nodes/1328dce9cd2ceb0cebaa9dcc668baac3
-https://fn10.sp0529.xyz/nodes/bc4031de462057e205c51fc088fcb177
-https://fn10.sp0529.xyz/nodes/d4f499c9539e6cc5d32a2313cda60191
-https://fn10.sp0529.xyz/nodes/0d05df5a4c6948940c64fca6223a1226
+https://fn10.sp0529.xyz/nodes/4935f5c0ce82699607966219d1e2b69e
+https://fn10.sp0529.xyz/nodes/cabc0a6009773f4260e654eac65a66f7
+https://fn10.sp0529.xyz/nodes/a030c0e78d9b8a870c9bf3c501e90c71
+https://fn10.sp0529.xyz/nodes/9292525129cbd90dcfef982f8ffdba9d
+https://fn10.sp0529.xyz/nodes/afadd8f0b81f7aa7ba3d1742c0f3a15b
+https://fn10.sp0529.xyz/nodes/4b1b5d488f90cfe9fd6b757a502a6eaf
 https://fn10.sp0529.xyz/nodes/fedb5e82cf7405fbbd32a2adee21fbd8
 https://fn10.sp0529.xyz/nodes/c4c1f2398d19f8e99ab4ab5a78899e0e
-https://fn10.sp0529.xyz/nodes/6fcf4263b261b8e0c35a8d7ae58be78d
+https://fn10.sp0529.xyz/nodes/5a81cd1c4233de44476063d184d7a67f
 
 ```
 
