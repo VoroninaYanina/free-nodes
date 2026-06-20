@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 06 月 19 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 06 月 20 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn01.fn0618.xyz/nodes/9087cfda739acc683d4e467844415ccd
-https://fn01.fn0618.xyz/nodes/af82ee09466a8976acbe61a1f0f15476
-https://fn01.fn0618.xyz/nodes/bea5cba80169544f16df1d1e2324c05d
-https://fn01.fn0618.xyz/nodes/efc54fa5ce6d827a2b86883b50c3a97f
-https://fn01.fn0618.xyz/nodes/a4c4b5ddd1ad64696f95651554b4cfc1
-https://fn01.fn0618.xyz/nodes/394668638cca272db28066bfa8dab911
+https://fn01.fn0618.xyz/nodes/636c43cf63019aafc5ac3d53845f5573
+https://fn01.fn0618.xyz/nodes/c69b68dad4afbd8291b25588cdb216a8
+https://fn01.fn0618.xyz/nodes/0352e4f08eb49e5dbefdfc2b3e83249b
+https://fn01.fn0618.xyz/nodes/38277e6b4628eb166ad5f15566c59077
+https://fn01.fn0618.xyz/nodes/1097c1ecd0704e06b8de9a482d5c5f4b
+https://fn01.fn0618.xyz/nodes/2db605b6d2f14247f0399e82ab255397
 https://fn01.fn0618.xyz/nodes/b11958d96fdb609bbdb28e85b54b0ef5
-https://fn01.fn0618.xyz/nodes/e61fe212f1e9a7357c94739a249fb95d
-https://fn01.fn0618.xyz/nodes/56fea7ec87064800558045c6ba2b8450
+https://fn01.fn0618.xyz/nodes/aca074d7c4a746228fce17b5f04cd968
+https://fn01.fn0618.xyz/nodes/a28bc83c65a23b418ad12c923d6809b7
 https://fn01.fn0618.xyz/nodes/6c7702558f1d8d03adf71c7d3f23f065
 https://fn01.fn0618.xyz/nodes/dd64bb9733707f0e854229580249eb69
 https://fn01.fn0618.xyz/nodes/3b7e81b166dc1f8d7492f0aec8a0cf1b
 https://fn01.fn0618.xyz/nodes/e634250b0148555e1bcb1e125c10f505
-https://fn01.fn0618.xyz/nodes/0cd120dcd96ba86427d01562e252cee7
-https://fn01.fn0618.xyz/nodes/5396bcd5c31ebf353a6a9b0fca3b1e06
-https://fn01.fn0618.xyz/nodes/529efb3d740e588a4b501fe99bb631b4
-https://fn01.fn0618.xyz/nodes/ea3f92e55a86e24d3e64a0b76a34f019
+https://fn01.fn0618.xyz/nodes/5ba1caa407f005d92854608147b105cd
+https://fn01.fn0618.xyz/nodes/67b5fea39c75d26897cfb0bf9b773769
+https://fn01.fn0618.xyz/nodes/e032e1ded12eeb3b0f47bc17d299d1db
+https://fn01.fn0618.xyz/nodes/c6f4020cc841ef8377af4322a73f7b85
 
 ```
 
