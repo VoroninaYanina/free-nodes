@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 07 月 20 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 07 月 21 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn03.fn0618.xyz/nodes/db3e524833b497ffff4633ddddd46fb2
-https://fn03.fn0618.xyz/nodes/62b366c9beec22ffc39f10c7d8e0eace
+https://fn03.fn0618.xyz/nodes/f9711f2be80d14cd272bdd051dabc8fa
+https://fn03.fn0618.xyz/nodes/d8b8897b549a575d4bcc87c14ea5c5f7
 https://fn03.fn0618.xyz/nodes/8103ec33bb9a2bb03d383806b86c2d46
 https://fn03.fn0618.xyz/nodes/17a7abc7ad5ce4311fe079093dc7dac1
-https://fn03.fn0618.xyz/nodes/2f87ce3c9dfb6efea1115ebc2af357c1
-https://fn03.fn0618.xyz/nodes/f46f76117195eab3b08d7708a748958a
-https://fn03.fn0618.xyz/nodes/0cf9ad943d292cbf72048c8b437d222b
+https://fn03.fn0618.xyz/nodes/eb728d8d1f9d65958492666cc91e99d9
+https://fn03.fn0618.xyz/nodes/ab8dddcb960046baf7e3987bbde0a70d
+https://fn03.fn0618.xyz/nodes/6d9478e6f7e359a308d911538ba6a3cf
 https://fn03.fn0618.xyz/nodes/57eddb8e177106631f8b665085a577f8
-https://fn03.fn0618.xyz/nodes/1ab8f8715913f0e43a361a265357d632
-https://fn03.fn0618.xyz/nodes/6029dff68b5cb4c0a1b40c93e7be69dc
-https://fn03.fn0618.xyz/nodes/bb5a078c9e6176105110dedb8f6dafb5
-https://fn03.fn0618.xyz/nodes/45e94a303c9e7ddefcb397dd620956ce
-https://fn03.fn0618.xyz/nodes/6d46954fff540f3bcdb360cb595729cd
-https://fn03.fn0618.xyz/nodes/c1e55671646bbad69a90be310e217548
+https://fn03.fn0618.xyz/nodes/5c6e62b2cf0b41aa884f16b68694ad31
+https://fn03.fn0618.xyz/nodes/da8c851d9c1e8fa00b3ee965c5b1fa57
+https://fn03.fn0618.xyz/nodes/1d86327ea8c29f9f193d6143f045c4cd
+https://fn03.fn0618.xyz/nodes/cecb88e37639fe5072305b9e6a96658c
+https://fn03.fn0618.xyz/nodes/e2864654ab490f693c67da239890f98f
+https://fn03.fn0618.xyz/nodes/9d6e898bd986655646f7afc4265d847b
 https://fn03.fn0618.xyz/nodes/bedec10069e9f4e6013308fe5c169e53
-https://fn03.fn0618.xyz/nodes/fa95c8abc0c47597dfee10573120c858
-https://fn03.fn0618.xyz/nodes/07662e5900c9f9ada48d9a4290983393
+https://fn03.fn0618.xyz/nodes/96bc6a0b0a1b135db14a36c5e74b2f7a
+https://fn03.fn0618.xyz/nodes/2231effde93cd21d58be069910563732
 
 ```
 
