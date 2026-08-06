@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 08 月 05 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 08 月 06 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn03.fn0618.xyz/nodes/ba045074c64a0d68693c07e1a92da143
-https://fn03.fn0618.xyz/nodes/c0a604e8f0abfce82e88fb830c38a596
-https://fn03.fn0618.xyz/nodes/53c12bc02129116defc0629afc566507
+https://fn03.fn0618.xyz/nodes/bdad5260295f11255b9524783ed5e3ed
+https://fn03.fn0618.xyz/nodes/0eeb1eb4455ae0732d7d0ca4f0b1b66b
+https://fn03.fn0618.xyz/nodes/bb6884d7dba6a104f33d09eb6c127ef0
 https://fn03.fn0618.xyz/nodes/7bf1dad03d0cf61c41646ebd93f6a55a
-https://fn03.fn0618.xyz/nodes/a37a3202c5afd5bb497d459cc7476a15
+https://fn03.fn0618.xyz/nodes/63e53d98a6076db37e9c2e8203538a85
 https://fn03.fn0618.xyz/nodes/2377c8eebbefa7c96adce13adee320d8
-https://fn03.fn0618.xyz/nodes/ee033978a1e33f075a85429fb03e9bdf
-https://fn03.fn0618.xyz/nodes/833bb6b94738d7df4ff50521798236db
-https://fn03.fn0618.xyz/nodes/5dae390853415965724a664b51afabe1
-https://fn03.fn0618.xyz/nodes/618a3bb65a8d4ea4d143bf5f34ba4d72
+https://fn03.fn0618.xyz/nodes/0ae89a3f225e8e3d7b9369c0bee3806b
+https://fn03.fn0618.xyz/nodes/1a741ee54b74ae3adb938858c260c263
+https://fn03.fn0618.xyz/nodes/eafd74766d786122f78c3290b6adb099
+https://fn03.fn0618.xyz/nodes/db1f882c3a635b6ceb2a3ee9a2ff6a58
 https://fn03.fn0618.xyz/nodes/fbeb9079910a848969c1d096bda49b62
-https://fn03.fn0618.xyz/nodes/15b060021a23a473e5243b0da3be4a2e
-https://fn03.fn0618.xyz/nodes/cf8e20feb4af5bf8b922ce503c80abbb
+https://fn03.fn0618.xyz/nodes/ad95b8c48bf7953f7b705b53a1931468
+https://fn03.fn0618.xyz/nodes/49dee4d79a98bcb9010fb59cdd91d019
 https://fn03.fn0618.xyz/nodes/68e6cbf92adf3828274ac85d88d03af0
 https://fn03.fn0618.xyz/nodes/a97cb2a47823340ad989c9e80a2774e6
-https://fn03.fn0618.xyz/nodes/279a37bb6d5eb80d22432a35fd2b69f7
-https://fn03.fn0618.xyz/nodes/4acb59ecd932bae46056ade06cb90846
+https://fn03.fn0618.xyz/nodes/dbf2227d1d7bd7d02ac7dba528eeebc6
+https://fn03.fn0618.xyz/nodes/543bfa5a57d6d448a21c0da047dd8837
 
 ```
 
