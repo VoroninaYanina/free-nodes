@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 08 月 07 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 08 月 08 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndx.fn0618.xyz/nodes/d39a936d64cfe7d0b63ade88e9ca3101
+https://ndx.fn0618.xyz/nodes/96fb6221dbb79fb7f01189ef8c464c53
 https://ndx.fn0618.xyz/nodes/723dcb66dd11637bb2554a73c74b3f1d
 https://ndx.fn0618.xyz/nodes/52bff17e32927f676721fff9a91ca855
-https://ndx.fn0618.xyz/nodes/a62b14689a54f88266c5d5c796a8cd2f
-https://ndx.fn0618.xyz/nodes/64bf0cd43c3991585d16d9469f3ccd96
+https://ndx.fn0618.xyz/nodes/33047f9c2becc53bb893cc09e367504d
+https://ndx.fn0618.xyz/nodes/eca1a88097e676a98a05ca3dab87f8cd
 https://ndx.fn0618.xyz/nodes/e00c3ef82066ce5b7692d0a7fc84e3d8
 https://ndx.fn0618.xyz/nodes/37d59cc9f406411e92025e548fd3587b
-https://ndx.fn0618.xyz/nodes/b77788423ecdbedce606c7bff0432493
+https://ndx.fn0618.xyz/nodes/90c605efa916ed594952addf2f9ccfd5
 https://ndx.fn0618.xyz/nodes/ddfda5e59bd66eaac3a6723bbcc4d0aa
-https://ndx.fn0618.xyz/nodes/d15b5cc44155dac6d8a3e2bbbbf932eb
+https://ndx.fn0618.xyz/nodes/6420190f8ddfd5780301e563ebd9f46f
 https://ndx.fn0618.xyz/nodes/d4218089a8abb33bbea4d726afc5e9f7
-https://ndx.fn0618.xyz/nodes/25c146e57a850f1b7f6d9e02d0100fc2
-https://ndx.fn0618.xyz/nodes/d923fdcba71214736bae5b35b2053c50
+https://ndx.fn0618.xyz/nodes/e37ebb5ec61c2ec722c12e52f86141cc
+https://ndx.fn0618.xyz/nodes/b4eba8dcd61ad064fe03f6df39c8e895
 https://ndx.fn0618.xyz/nodes/edd7a17a9c867cfbeb4a1a76b6f1cbe5
 https://ndx.fn0618.xyz/nodes/297e0590aa03e11c38497c71c7de6cbe
 https://ndx.fn0618.xyz/nodes/e52815b597cace55c9e94e9861d7ed17
-https://ndx.fn0618.xyz/nodes/22abd69c33ba4ebf79784e50243db829
+https://ndx.fn0618.xyz/nodes/44f8f6926f0b4af2070397c34b527b9c
 
 ```
 
