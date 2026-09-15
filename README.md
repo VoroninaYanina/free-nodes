@@ -20,7 +20,7 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 09 月 14 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 09 月 15 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
@@ -34,7 +34,7 @@ https://ndxy.fn0821.xyz/nodes/ad81582bb4422e0f4352b8d86fec3089
 https://ndxy.fn0821.xyz/nodes/a06c26bb9a88313c230ef0f24ed9f5cd
 https://ndxy.fn0821.xyz/nodes/d70ea9ba5a5daf69eee2a0f7993e5b0c
 https://ndxy.fn0821.xyz/nodes/4f15cedde723bec0ed2bedcdecd4268c
-https://ndxy.fn0821.xyz/nodes/ae1b54fc6d2fb4ec83558d90986e1e0a
+https://ndxy.fn0821.xyz/nodes/ca13c5a9a38d0bd2c1e1945ba0832e9f
 https://ndxy.fn0821.xyz/nodes/b39e251eca737b62ca8690bf4823b46f
 https://ndxy.fn0821.xyz/nodes/27257213e15f45e6ded6838009379e6e
 https://ndxy.fn0821.xyz/nodes/66b0fbf461009988f721e7fd907bd2f5
