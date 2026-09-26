@@ -20,29 +20,29 @@
 
 ## 1.2. 🔗 免费订阅链接（每日更新）
 
-### 1.2.1. ✅ 最新订阅(2026 年 09 月 25 日 更新)
+### 1.2.1. ✅ 最新订阅(2026 年 09 月 26 日 更新)
 
 ```code
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
 https://ndxy.fn0821.xyz/nodes/5bcdb1b0e797b13ba3a10fd571479411
-https://ndxy.fn0821.xyz/nodes/b609554174e0d8d86a5f4d02914fbfc1
-https://ndxy.fn0821.xyz/nodes/2c5c7570193cb3b6859c2ec3f90e4d17
-https://ndxy.fn0821.xyz/nodes/675313cd9dd28c8ab34255bba4f57726
+https://ndxy.fn0821.xyz/nodes/998a2db28140a24bf14adf1dd8a3439f
+https://ndxy.fn0821.xyz/nodes/7d311cd4d61336fba2e696e43012a81a
+https://ndxy.fn0821.xyz/nodes/6ed0439827b871f77739aa7bcece9ff6
 https://ndxy.fn0821.xyz/nodes/04dc0f4fb0d55b78e849561b0e06e659
-https://ndxy.fn0821.xyz/nodes/ca8c5f026352a14dfd3da42e709167ca
-https://ndxy.fn0821.xyz/nodes/0aa81cad2baa9a8710bfb4138897a319
-https://ndxy.fn0821.xyz/nodes/783dfc64780dcaa3601094b186dee592
-https://ndxy.fn0821.xyz/nodes/2cc021618677c162bcde841fea028847
-https://ndxy.fn0821.xyz/nodes/ecd65ad1c3227fc83176ee5bef87831f
+https://ndxy.fn0821.xyz/nodes/79e5e61c51e575ca26438ac7216dfa19
+https://ndxy.fn0821.xyz/nodes/ae023c39987899a1793cd1de69b484ac
+https://ndxy.fn0821.xyz/nodes/d63a3973bedc6069e4577fb33575a82b
+https://ndxy.fn0821.xyz/nodes/e61ab267f3b3bde48c9d49b9a3d171db
+https://ndxy.fn0821.xyz/nodes/170d758daf83f44b653fd6c2bc13bf02
 https://ndxy.fn0821.xyz/nodes/e93199cd18a217398e4c7e95c9de3ac2
-https://ndxy.fn0821.xyz/nodes/99b1f9007f85a1db78feae6cc9aec59f
-https://ndxy.fn0821.xyz/nodes/41699030ff00aa73be67d7306145720e
+https://ndxy.fn0821.xyz/nodes/09ca59b8288a409afb6f51add855c056
+https://ndxy.fn0821.xyz/nodes/a600de0b5645be782b46ac33031de4b5
 https://ndxy.fn0821.xyz/nodes/b437a8c2875defec5ea753f88630dbda
-https://ndxy.fn0821.xyz/nodes/c38c3833f8460800f528b4a32210ba21
-https://ndxy.fn0821.xyz/nodes/7d9f78d280c46c4dbcc7a4e1f681e1ed
-https://ndxy.fn0821.xyz/nodes/6703057dfb9160c328d4b267ccff9444
+https://ndxy.fn0821.xyz/nodes/faf5406a10121fb37f854ca79572bd9a
+https://ndxy.fn0821.xyz/nodes/9466f64fd631aecf2577ed1bf728904a
+https://ndxy.fn0821.xyz/nodes/871832cf1b9be996b8d63cbfd4b88b80
 
 ```
 
